@@ -3,6 +3,8 @@
 **Most B2B content is about the seller. Make yours about the buyer, and start the conversations you want.**
 A free Claude Code skill that checks every post, email and DM against what your ideal client wants, before it goes out.
 
+**Prefer paper?** Get the free printable worksheet (blank map + our filled example): https://www.strategysprints.com/5d-client-map 🌴
+
 Build your map once. Paste any draft. Get PASS or FIX on each of the 5 D's, plus the rebuilt draft.
 
 You want the right founders replying. Bigger deals at the price you want. Fewer deals where you're the only one who can close. 🐬
@@ -85,6 +87,7 @@ Run it FIRST, before any copywriting check. Polishing copy that's off-target onl
 | `5d-client-map.md` | The skill (build + check) |
 | `5d-client-map-template.md` | Blank map to fill in by hand |
 | `examples/strategy-sprints.md` | Our real map, the one we run our own content through |
+| `5d-client-map-worksheet.pdf` | Printable 2-page worksheet (blank map + our filled map) |
 
 ---
 
